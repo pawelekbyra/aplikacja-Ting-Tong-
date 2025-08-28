@@ -1,0 +1,46 @@
+[
+    {
+        "id": "slide-001",
+        "likeId": "1",
+        "user": "Paweł Polutek",
+        "description": "To jest dynamicznie załadowany opis dla pierwszego slajdu. Działa!",
+        "mp4Url": "https://pawelperfect.pl/wp-content/uploads/2025/07/17169505-hd_1080_1920_30fps.mp4",
+        "hlsUrl": null,
+        "poster": "",
+        "avatar": "https://i.pravatar.cc/100?u=pawel",
+        "access": "public"
+    },
+    {
+        "id": "slide-002",
+        "likeId": "2",
+        "user": "Web Dev",
+        "description": "Kolejny slajd, kolejne wideo. #efficiency",
+        "mp4Url": "https://pawelperfect.pl/wp-content/uploads/2025/07/4434150-hd_1080_1920_30fps-1.mp4",
+        "hlsUrl": null,
+        "poster": "",
+        "avatar": "https://i.pravatar.cc/100?u=webdev",
+        "access": "public"
+    },
+    {
+        "id": "slide-003",
+        "likeId": "3",
+        "user": "Tajemniczy Tester",
+        "description": "Ten slajd jest tajny! 🤫",
+        "mp4Url": "https://pawelperfect.pl/wp-content/uploads/2025/07/4678261-hd_1080_1920_25fps.mp4",
+        "hlsUrl": null,
+        "poster": "",
+        "avatar": "https://i.pravatar.cc/100?u=tester",
+        "access": "secret"
+    },
+    {
+        "id": "slide-004",
+        "likeId": "4",
+        "user": "Artysta AI",
+        "description": "Generowane przez AI, renderowane przez przeglądarkę. #future",
+        "mp4Url": "https://pawelperfect.pl/wp-content/uploads/2025/07/AdobeStock_631182722-online-video-cutter.com_.mp4",
+        "hlsUrl": null,
+        "poster": "",
+        "avatar": "https://i.pravatar.cc/100?u=ai-artist",
+        "access": "public"
+    }
+]
